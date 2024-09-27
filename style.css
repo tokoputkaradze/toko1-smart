@@ -1,0 +1,14 @@
+.TOPIC{
+    border: 10px solid red;    
+    background: black;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+article{
+    width: 400px;
+    background-color: blueviolet;
+    border: 5px dotted;
+    padding: 20px;
+    margin-bottom: 50px auto;
+}
