@@ -23,4 +23,23 @@ footer{
 }
 footer a{
     padding: 50px;
+    color: #F2F2F2;
 }
+ul {
+    list-style: none;
+    cursor: pointer;
+  }
+
+  a {
+    text-decoration: none;
+    color: #707070;
+    font-size: 25px;
+  }
+  article a{
+    
+  }
+  svg{
+    width: 20px;
+    height: 20px;
+    fill: #707070;
+  }
